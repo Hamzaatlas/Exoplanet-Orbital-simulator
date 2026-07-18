@@ -1,0 +1,13 @@
+# Environments
+venv/
+env/
+
+# Mac files
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Data exports
+*.csv
