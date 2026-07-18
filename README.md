@@ -11,3 +11,22 @@ This Python application provides an interactive 3D visualization of exoplanet or
 ## Setup
 ```bash
 pip install -r requirements.txt
+```
+## Run
+```bash
+python simulation1.py
+```
+## Roadmap
+- [x] Integrate NASA Exoplanet Archive API
+- [x] Implement 3D rotation matrix math
+- [x] Build interactive PySide6 GUI
+- [ ] Add support for "Longitude of Ascending Node" if available
+- [ ] Add ability to save plots as image files
+
+
+## Data Sources (Official and FREE ;) )
+[NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/)
+
+[Matplotlib Documentation](https://matplotlib.org/)
+
+[PySide6 Documentation](https://doc.qt.io/qtforpython-6/)
